@@ -1,0 +1,16 @@
+C:\Users\caiof\eclipse-workspace\VendaOnlineCaio\src\main\java\br\com\rpires\services\generic\GenericService.java
+C:\Users\caiof\eclipse-workspace\VendaOnlineCaio\src\main\java\br\com\rpires\dao\IClienteDAO.java
+C:\Users\caiof\eclipse-workspace\VendaOnlineCaio\src\main\java\br\com\rpires\service\IClienteService.java
+C:\Users\caiof\eclipse-workspace\VendaOnlineCaio\src\main\java\br\com\rpires\exceptions\TableException.java
+C:\Users\caiof\eclipse-workspace\VendaOnlineCaio\src\main\java\br\com\rpires\dao\generic\GenericDAO.java
+C:\Users\caiof\eclipse-workspace\VendaOnlineCaio\src\main\java\br\com\rpires\domain\Cliente.java
+C:\Users\caiof\eclipse-workspace\VendaOnlineCaio\src\main\java\br\com\rpires\exceptions\TipoElementoNaoConhecidoException.java
+C:\Users\caiof\eclipse-workspace\VendaOnlineCaio\src\main\java\br\com\rpires\dao\ClienteDAO.java
+C:\Users\caiof\eclipse-workspace\VendaOnlineCaio\src\main\java\br\com\rpires\domain\Persistente.java
+C:\Users\caiof\eclipse-workspace\VendaOnlineCaio\src\main\java\br\com\rpires\service\ClienteService.java
+C:\Users\caiof\eclipse-workspace\VendaOnlineCaio\src\main\java\br\com\pires\controller\ClienteController.java
+C:\Users\caiof\eclipse-workspace\VendaOnlineCaio\src\main\java\br\com\rpires\dao\generic\IGenericDAO.java
+C:\Users\caiof\eclipse-workspace\VendaOnlineCaio\src\main\java\br\com\rpires\exceptions\TipoChaveNaoEncontradaException.java
+C:\Users\caiof\eclipse-workspace\VendaOnlineCaio\src\main\java\br\com\rpires\exceptions\DAOException.java
+C:\Users\caiof\eclipse-workspace\VendaOnlineCaio\src\main\java\br\com\rpires\exceptions\MaisDeUmRegistroException.java
+C:\Users\caiof\eclipse-workspace\VendaOnlineCaio\src\main\java\br\com\rpires\services\generic\IGenericService.java
